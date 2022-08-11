@@ -58,3 +58,5 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+theme: jekyll-theme-minimal
