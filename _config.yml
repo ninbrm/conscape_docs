@@ -59,4 +59,4 @@ plugins:
   - jekyll-readme-index
   - jemoji
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
